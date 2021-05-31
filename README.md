@@ -1,5 +1,6 @@
 # prueba
 prueba
+<<<<<<< HEAD
 hola mundo
 como estas 
 
@@ -11,3 +12,5 @@ cambio desde local
 
 
 cambio 5
+=======
+>>>>>>> parent of 8840ece (commit 1)
